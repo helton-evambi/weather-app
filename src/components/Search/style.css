@@ -3,6 +3,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
+  
 }
 
 .formSearch {
@@ -27,7 +28,7 @@
 
 .autoCompleteSearch {
   position: absolute; 
-  padding: 1.3em auto 1.3em auto;
+  top: 50px;
   background-color: #F6F6F8;
   width: 100%;
   border-radius: 10px;
