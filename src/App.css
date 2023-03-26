@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 135vh;
+  background-color: #BFBFC4;
+}
+
+.container {
+  display: flex;
+  width: 85%;
+  height: 95%;
+  border-radius: 50px;
+  overflow: hidden;
+}
